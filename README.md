@@ -1,2 +1,2 @@
 # dublab_mixcloud_uploaderz
-simple program to auto-upload shows on dubla.cat
+simple program to auto-upload shows on dublab.cat

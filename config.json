@@ -1,0 +1,9 @@
+{
+  "client_id": "wzsWlQCnQsl5mtr6TW",
+  "client_secret": "JNbC7MOdbEt75Vp7WlyWqvRsy91XToVk",
+  "redirect_uri": "http://localhost:8080/callback",
+  "token_file": "token.txt",
+  "watch_folder": "uploads",
+  "shows_folder": "shows",
+  "metadata_file": "shows.csv"
+}

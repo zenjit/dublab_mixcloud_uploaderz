@@ -1,6 +1,6 @@
 {
-  "client_id": "wzsWlQCnQsl5mtr6TW",
-  "client_secret": "JNbC7MOdbEt75Vp7WlyWqvRsy91XToVk",
+  "client_id": "xxxxxxxxxxxxx",
+  "client_secret": "yyyyyyyyyyyyyyyy",
   "redirect_uri": "http://localhost:8080/callback",
   "token_file": "token.txt",
   "watch_folder": "uploads",
